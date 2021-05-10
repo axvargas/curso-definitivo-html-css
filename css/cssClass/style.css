@@ -1,0 +1,16 @@
+/* element */
+p {
+    color: blueviolet;
+    font-size: 40px;
+}
+
+/* class */
+.paragraph {
+    color: red;
+}
+
+/* id */
+#text-p {
+    color: royalblue;
+    font-size: 2em;
+}

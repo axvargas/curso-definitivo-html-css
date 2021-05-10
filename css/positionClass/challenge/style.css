@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    border: 2px black dotted;
+    margin: 0 auto;
+    margin: 50px;
+    width: 50%;
+}
+
+p {
+    text-align: center;
+}
+
+.card__title {
+    position: relative;
+    bottom: 15px;
+    border: 2px black dotted;
+    background-color: brown;
+}

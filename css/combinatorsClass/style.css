@@ -1,0 +1,14 @@
+/* Adyacent sibbling */
+/* h2 ~ p {
+    color:red
+} */
+
+/* General sibbling */
+/* h2 ~ p {
+    color:red
+} */
+
+/* Children */
+div p {
+    color: red;
+}
